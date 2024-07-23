@@ -1,0 +1,8 @@
+.search-sec{
+    background-image: url("/imgs/search-bg.jpg");
+    padding: 100px;
+    width: 70%;
+    margin: 35px auto;
+    border: none;
+    border-radius: 50px;
+}

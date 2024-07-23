@@ -1,0 +1,42 @@
+/*!******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./src/components/search/search.css ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************/
+.search-sec{
+    background-image: url("/imgs/search-bg.jpg");
+    padding: 100px;
+    width: 70%;
+    margin: 35px auto;
+    border: none;
+    border-radius: 50px;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./src/components/navigation/navigation.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************/
+.nav-container {
+  display: flex;
+  gap: 35px;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 41%;
+  margin: 50px auto;
+}
+
+.nav-container .nav-btn a{
+  flex: 0 0 30.3333%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  row-gap: 16px;
+}
+
+.nav-container .nav-btn a img {
+  width: 200px;
+  height: 200px;
+  border-radius: 17%;
+}
+
+.nav-container .nav-btn a .label{
+  text-align: center;
+  max-width: 160px;
+  margin: auto;
+}
